@@ -71,7 +71,8 @@ padding-left:80px;}
    bottom: calc(-70vh + 90%);
    width: 30vw;
 height: 600px;
-padding-right: 10%;}
+padding-right: 10%;
+}
 
 .buttonStuff{display:flex;
    flex-direction:column;
